@@ -1,0 +1,26 @@
+body	{
+	background-image: url("background.jpg");
+	margin-left: 17%;
+
+}
+
+#youtube {
+
+	margin: 10px;
+
+
+}
+h1	{
+	
+	color: white;
+	font-size: 100px;
+	margin: 10px;
+	
+
+}
+
+h3		{
+	color: white;
+	font-size: 50px;
+	margin: 10px;
+}
